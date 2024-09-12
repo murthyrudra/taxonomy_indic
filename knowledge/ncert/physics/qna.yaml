@@ -74,8 +74,8 @@ seed_examples:
         answer: |
           प्राणु का द्रव्यमान 1.6726E-27 किग्रा होता है।
 document_outline: |
-  NCERT Physics textbooks in Hindi
+  Documents containing information about Physics concepts in Hindi
 document:
-  folder: /Users/rudramurthy/Documents/GitHub/instructlab/ncert_books
+  folder: /dccstor/cssblr/rmurthyv/IBM/InstructLab/instructlab/ncert_books/
   patterns:
     - "*.md"
