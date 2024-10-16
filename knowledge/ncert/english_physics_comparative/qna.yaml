@@ -1,0 +1,116 @@
+version: 3
+domain: physics
+created_by: murthyrudra
+seed_examples:
+  - context: |
+      In physics, magnetism is the process in which an object exerts attraction or repulsion force on another object. Objects which exhibit this property are called magnets. Nickel, iron, cobalt and their alloys have easily recognizable magnetic properties. It is known that all objects are affected by the presence of magnetic field to a greater or lesser extent.
+    questions_and_answers:
+      - question: |
+          How does the magnetic property of nickel compare to that of iron? (Provide the answer in bulleted points.)
+        answer: |
+          - Both nickel and iron are magnetic materials.
+          - Nickel and iron are used in similar applications due to their magnetic properties.
+          - Nickel has slightly different magnetic properties compared to iron, particularly in terms of coercivity and saturation magnetization.
+      - question: |
+          How does the effect of a magnetic field on ferromagnetic materials compare to non-ferromagnetic materials? (Provide the answer in bulleted points.)
+        answer: |
+          - Ferromagnetic materials (like iron and cobalt) experience a stronger magnetic attraction.
+          - Non-ferromagnetic materials experience a weaker or no magnetic attraction.
+          - Ferromagnetic materials can become magnets themselves, while non-ferromagnetic materials cannot.
+      - question: |
+          How do magnetic fields affect objects of different magnetic susceptibilities? (Provide the answer in bulleted points.)
+        answer: |
+          - Objects with high magnetic susceptibility experience a stronger force in a magnetic field.
+          - Objects with low magnetic susceptibility experience a weaker force or negligible effect.
+          - Magnetic susceptibility determines how easily an object can be magnetized or attracted to a magnet.
+  - context: |
+      Humans have known about iron since ancient times. The use of iron was known to the people of India 300-400 years before Christ. Iron weapons etc. of the archaeological period have been found in Tinneveli district of Tamil Nadu state, Brahmagiri of Karnataka and Takshashila, which are known to be from about 400 years before Christ. People were skilled in the iron industry even 1,500 years ago in Kapilavastu, Buddhgaya etc., because many signs of iron metallurgy are still found in these places. The huge iron pillar in front of Qutub Minar of Delhi was built in the fourth century during the period of King Chandravarman of Pushkarna, Rajasthan. It is a vivid example of India's excellent metalcraft. The length of this pillar is 24 feet and its estimated weight is more than 6 tons. Analysis of its iron has revealed that it contains 99.72 percent iron. The metallurgy of the fourth century can be estimated from the fact that this pillar has been standing unaffected by wind and rain for 15 centuries. The surprising thing is how such a long and wide pillar was made, because even today it is a difficult task to make such a huge pillar.
+    questions_and_answers:
+      - question: |
+          How does the iron pillar in Delhi compare to other ancient iron artifacts in terms of preservation? (Provide the answer in bulleted points.)
+        answer: |
+          - The Delhi iron pillar has remained unaffected by weather for 15 centuries.
+          - Other ancient iron artifacts from the same period have not shown the same level of preservation.
+          - The Delhi pillar's preservation is exceptional due to its high iron content and possibly unique metallurgical techniques.
+      - question: |
+          How does the skill level in iron metallurgy during ancient India compare to that of other ancient civilizations? (Provide the answer in bulleted points.)
+        answer: |
+          - Ancient India had advanced iron metallurgy skills, evident from large and durable artifacts.
+          - Other ancient civilizations like the Romans and Chinese also had advanced metallurgy but with different techniques and artifacts.
+          - Indian iron metallurgy was particularly notable for its durability and the ability to create large structures like the iron pillar in Delhi.
+      - question: |
+          How does the iron content of the Delhi pillar compare to modern iron standards? (Provide the answer in bulleted points.)
+        answer: |
+          - The Delhi pillar contains 99.72% iron, which is very high.
+          - Modern iron standards may not always reach such a high percentage of iron content.
+          - The high purity of the Delhi pillar's iron contributes to its exceptional durability.
+  - context: |
+      Blood or hem is a body fluid that continuously flows in various organs through blood vessels. This thick, somewhat sticky, red coloured fluid flowing in blood vessels is a living tissue. It is made up of plasma and blood cells. Plasma is the lifeless liquid medium in which blood cells float. These cells are able to reach the entire body with the help of plasma and it is the plasma that carries the nutrients absorbed from the intestines to various parts of the body and takes the harmful substances formed after the digestive process to the excretory organs and gives them a chance to be cleaned. There are three types of blood cells, red blood cells, white blood cells and platelets. Red blood cells carry oxygen from the respiratory organs to the entire body and carry carbon dioxide from the body to the respiratory organs. Their deficiency causes anemia. White blood cells protect the body from harmful substances and disease-causing germs. Platelets help protect blood vessels and form blood.
+    questions_and_answers:
+      - question: |
+          How do the functions of red blood cells compare to those of white blood cells? (Provide the answer in bulleted points.)
+        answer: |
+          - Red blood cells carry oxygen from the respiratory organs to the entire body and transport carbon dioxide back to the lungs.
+          - White blood cells protect the body from harmful substances and disease-causing germs.
+          - Red blood cells are primarily involved in oxygen transport, while white blood cells are involved in immune response.
+      - question: |
+          How does the role of platelets in blood compare to that of red blood cells? (Provide the answer in bulleted points.)
+        answer: |
+          - Platelets are involved in blood clotting and protecting blood vessels.
+          - Red blood cells are responsible for transporting oxygen and carbon dioxide.
+          - Platelets work primarily in wound repair and preventing excessive bleeding, while red blood cells focus on respiratory gas transport.
+      - question: |
+          How do the different types of blood cells contribute to overall blood function? (Provide the answer in bulleted points.)
+        answer: |
+          - Red blood cells carry oxygen to tissues and remove carbon dioxide.
+          - White blood cells fight infections and protect against disease.
+          - Platelets help in clotting and protecting blood vessels from damage.
+  - context: |
+      Every atom is made up of a nucleus and the nucleus is bounded by one or more electrons. The nucleus is usually made up of one or more neutrons and an equal number of protons. Protons and neutrons are called nucleons. More than 99.94% of the mass of an atom is in the nucleus. Protons have a positive electric charge, electrons have a negative electric charge and neutrons have no electric charge. The electrons of an atom are attracted to the protons in the nucleus of an atom by this electromagnetic force. The protons and neutrons in the nucleus are attracted to each other by a different force, i.e. the nuclear force, which is usually stronger than the electromagnetic force repelling the positively charged protons from each other. At the center of the atom is the nucleus which has a very high density. The diameter of the nucleus is measured in Fermi. (One Fermi equals 10^15 i.e. 10 to the power of -15) Negatively charged electrons keep revolving around the nucleus which is called electron cube (electron cloud). The nucleus is made up of positively charged protons and uncharged (neutral) neutrons. When the number of electrons in an atom is equal to the number of protons in its nucleus, then the atom is electrically uncharged; otherwise the atom is in the form of positively charged or negatively charged ions.
+    questions_and_answers:
+      - question: |
+          How does the electromagnetic force between electrons and protons compare to the nuclear force within the nucleus? (Provide the answer in bulleted points.)
+        answer: |
+          - The electromagnetic force attracts electrons to protons, holding the atom together.
+          - The nuclear force binds protons and neutrons together within the nucleus.
+          - The nuclear force is generally stronger than the electromagnetic force.
+      - question: |
+          How does the density of the nucleus compare to that of the electron cloud? (Provide the answer in bulleted points.)
+        answer: |
+          - The nucleus has a very high density.
+          - The electron cloud is much less dense compared to the nucleus.
+          - Most of the atom's mass is concentrated in the nucleus.
+      - question: |
+          How does the mass of an atom compare to the mass of its nucleus? (Provide the answer in bulleted points.)
+        answer: |
+          - More than 99.94% of the mass of an atom is in the nucleus.
+          - The electron cloud contributes only a small fraction to the atom's total mass.
+          - The nucleus holds nearly all of the atom's mass.
+  - context: |
+      Proton is a fundamental particle with positive electrical charge, which is found in the nucleus of the atom along with neutron. It is represented by the symbol p. It has a positive charge of 1.0602E-19 coulomb. Its mass is 1.6726E-27 kg which is about 1845 times more than the mass of the electron. Proton is made up of three elementary particles, two up-quarks and one down-quark. Freely it is found in the form of hydrogen ion H+. Proton was discovered by Raderford
+    questions_and_answers:
+      - question: |
+          How does the mass of a proton compare to that of an electron? (Provide the answer in bulleted points.)
+        answer: |
+          - A proton's mass is approximately 1845 times greater than that of an electron.
+          - The proton's mass contributes most of the atom's mass compared to electrons.
+          - Electrons have negligible mass compared to protons.
+      - question: |
+          How does the charge of a proton compare to that of an electron? (Provide the answer in bulleted points.)
+        answer: |
+          - A proton has a positive charge of 1.0602E-19 coulomb.
+          - An electron has a negative charge of equal magnitude but opposite in sign.
+          - The magnitudes of the charges are the same, but the signs are opposite.
+      - question: |
+          How does the internal structure of a proton compare to that of an electron? (Provide the answer in bulleted points.)
+        answer: |
+          - A proton is made up of two up-quarks and one down-quark.
+          - An electron is a fundamental particle with no internal structure.
+          - The proton has a composite structure, while the electron does not.
+
+document_outline: |
+  The document contains information about Electromagnetism in Hindi.
+document:
+  folder: /dccstor/cssblr/rmurthyv/IBM/InstructLab/instructlab/corpus/english_physics_ibmbluepile_md
+  patterns:
+    - "*.md"

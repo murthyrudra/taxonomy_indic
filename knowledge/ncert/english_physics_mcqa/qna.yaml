@@ -1,0 +1,146 @@
+version: 3
+domain: physics
+created_by: murthyrudra
+seed_examples:
+- context: |
+    In physics, magnetism is the process by which one object exerts an attractive or repulsive force on another object. Objects that exhibit this property are called magnets. Nickel, iron, cobalt, and their mixtures, etc., have easily recognizable magnetic properties. It is known that all objects are affected by the presence of a magnetic field to varying degrees.
+  questions_and_answers:
+    - question: |
+        What is magnetism?
+a) A chemical reaction
+b) The force of attraction or repulsion exerted by one object on another
+c) A biological process
+d) A light process
+      answer: |
+        b) The force of attraction or repulsion exerted by one object on another
+    - question: |
+        Which of the following objects easily exhibit magnetic properties?
+a) Copper, aluminum
+b) Gold, silver
+c) Nickel, iron, cobalt
+d) Plastic, wood
+      answer: |
+        c) Nickel, iron, cobalt
+    - question: |
+        Which objects are affected by the presence of a magnetic field?
+a) Only metal objects
+b) Only wooden objects
+c) Only plastic objects
+d) All objects
+      answer: |
+        d) All objects
+- context: |
+    Knowledge of iron has existed since ancient times. The people of India were aware of the use of iron 300-400 years before Christ. Archaeological iron weapons, etc., have been found in places like Tirunelveli district in Tamil Nadu, Brahmagiri in Karnataka, and Taxila, which date back to around 400 years before Christ. Even 1,500 years ago, people in places like Kapilvastu and Bodh Gaya were skilled in iron metallurgy, as many traces of ironworking are still found in these locations. The massive iron pillar in front of the Qutub Minar in Delhi was built during the reign of King Chandravarman of Pushkarna, Rajasthan, in the 4th century. It is a shining example of India's excellent metallurgy. The length of this pillar is 24 feet and its estimated weight is over 6 tons. Analysis of the iron has revealed that it contains 99.72% iron. The fact that this pillar has remained unaffected by air and rain for 15 centuries indicates the skill of 4th-century metallurgy. It is remarkable how such a large pillar was made, as creating such a massive rod is still a difficult task today.
+  questions_and_answers:
+    - question: |
+        Since when has the use of iron been known in India?
+a) 100-200 years before Christ
+b) 300-400 years before Christ
+c) 500-600 years after Christ
+d) 1000 years after Christ
+      answer: |
+        b) 300-400 years before Christ
+    - question: |
+        During whose reign was the iron pillar in front of the Qutub Minar in Delhi built?
+a) Emperor Ashoka
+b) King Chandragupta
+c) King Chandravarman
+d) King Harshavardhan
+      answer: |
+        c) King Chandravarman
+    - question: |
+        What is the special feature of the iron pillar of Qutub Minar?
+a) It has been unaffected by air and rain for 15 centuries
+b) It has a layer of gold on it
+c) It is 100 feet long
+d) It contains a high amount of copper
+      answer: |
+        a) It has been unaffected by air and rain for 15 centuries
+- context: |
+    Blood is a physical liquid that continuously flows through various organs in the blood vessels. This thick, somewhat sticky, red fluid that flows in the blood vessels is a living tissue. It is composed of plasma and blood cells. Plasma is the non-living liquid medium in which blood cells float. Plasma enables these cells to reach all parts of the body, delivers nutrients absorbed from the intestines to various parts of the body, and carries harmful substances formed after digestion to excretory organs for elimination. Blood cells are of three types: red blood cells, white blood cells, and platelets. Red blood cells carry oxygen from the respiratory organs to all parts of the body and transport carbon dioxide from the body to the respiratory organs. A deficiency in these cells leads to anemia. White blood cells protect the body from harmful elements and disease-causing bacteria. Platelets help in the protection of blood vessels and in blood formation.
+  questions_and_answers:
+    - question: |
+        What is the main function of blood?
+a) To provide energy to the body
+b) To carry oxygen from the respiratory organs to the entire body
+c) To assist in the digestive process
+d) To strengthen bones
+      answer: |
+        b) To carry oxygen from the respiratory organs to the entire body
+    - question: |
+        What disease occurs due to a deficiency of red blood cells?
+a) Diabetes
+b) Anemia
+c) Heart disease
+d) High blood pressure
+      answer: |
+        b) Anemia
+    - question: |
+        What is the main function of platelets?
+a) To deliver nutrients in the body
+b) To assist in blood formation
+c) To transport oxygen
+d) To increase immunity
+      answer: |
+        b) To assist in blood formation
+- context: |
+    Every atom is made up of a nucleus, and the nucleus is surrounded by one or more electrons. The nucleus is generally composed of an equal number of neutrons and protons. Protons and neutrons are collectively called nucleons. More than 99.94% of the mass of an atom is located in the nucleus. Protons have a positive electric charge, electrons have a negative electric charge, and neutrons have no electric charge. Electrons are attracted to the protons in the nucleus by electromagnetic force. Protons and neutrons in the nucleus attract each other with a different force, known as the strong nuclear force, which is generally stronger than the electromagnetic force that repels positively charged protons from each other. The nucleus at the center of an atom has very high density. The diameter of the nucleus is measured in femtometers (one femtometer equals 10^-15 meters). Electrons, which have a negative charge, orbit around the nucleus, forming an electron cloud. The nucleus consists of positively charged protons and neutral neutrons. When the number of electrons in an atom is equal to the number of protons in its nucleus, the atom is electrically neutral; otherwise, it exists as a positively or negatively charged ion.
+  questions_and_answers:
+    - question: |
+        What particles are found in the nucleus of an atom?
+a) Only protons
+b) Only neutrons
+c) Protons and neutrons
+d) Protons and electrons
+      answer: |
+        c) Protons and neutrons
+    - question: |
+        What is the electric charge on an electron?
+a) Positive
+b) Negative
+c) No charge
+d) Both positive and negative
+      answer: |
+        b) Negative
+    - question: |
+        When the number of electrons in an atom is equal to the number of protons in its nucleus, what is the atom?
+a) Positively charged
+b) Negatively charged
+c) Electrically neutral
+d) Neutral ion
+      answer: |
+        c) Electrically neutral
+- context: |
+    A proton is a positively charged fundamental particle found in the nucleus of an atom along with neutrons. It is represented by the symbol p. It has a positive charge of 1.0602E-19 coulombs. Its mass is 1.6726E-27 kg, which is approximately 1845 times greater than the mass of an electron. A proton is made up of three primary particles: two up quarks and one down quark. It is found independently as a hydrogen ion H+. The discovery of the proton was made by Rutherford.
+  questions_and_answers:
+    - question: |
+        What is the electric charge of a proton?
+a) 1.0602E-19 coulombs
+b) 1.6726E-27 kg
+c) 1845 coulombs
+d) 1.6726E-19 coulombs
+      answer: |
+        a) 1.0602E-19 coulombs
+    - question: |
+        What primary particles make up a proton?
+a) One up quark and two down quarks
+b) Two up quarks and one down quark
+c) Three up quarks
+d) Three down quarks
+      answer: |
+        b) Two up quarks and one down quark
+    - question: |
+        How many times greater is the mass of a proton compared to the mass of an electron?
+a) 500 times
+b) 1000 times
+c) 1845 times
+d) 2000 times
+      answer: |
+        c) 1845 times
+
+document_outline: |
+  The document contains information about Electromagnetism in Hindi.
+document:
+  folder: /dccstor/cssblr/rmurthyv/IBM/InstructLab/instructlab/corpus/english_physics_ibmbluepile_md
+  patterns:
+    - "*.md"

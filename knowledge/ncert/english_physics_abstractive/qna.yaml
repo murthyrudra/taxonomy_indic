@@ -1,0 +1,85 @@
+version: 3
+domain: physics
+created_by: murthyrudra
+seed_examples:
+  - context: |
+      In physics, magnetism is the process in which one object exerts an attractive or repulsive force on another object. Objects that exhibit this property are called magnets. Nickel, iron, cobalt, and their alloys are known for their easily recognizable magnetic properties. It is worth noting that all objects are affected by the presence of a magnetic field to some extent.
+    questions_and_answers:
+      - question: |
+          What is magnetism, and what kind of process does it represent?
+        answer: |
+          Magnetism is a process in which one object exerts an attractive or repulsive force on another object. It is considered an important property in physics, found in objects that demonstrate magnetism.
+      - question: |
+          Which metals have magnetic properties?
+        answer: |
+          Metals like nickel, iron, and cobalt have magnetic properties. Their alloys are also magnetic and can be easily recognized.
+      - question: |
+          Are all objects affected by a magnetic field?
+        answer: |
+          Yes, all objects are affected by the presence of a magnetic field to some extent. However, some objects exhibit magnetic properties more clearly, while in others, this effect is minimal.
+  - context: |
+      Humans have been aware of iron metal since ancient times. People in India knew the use of iron around 300-400 years BCE. Iron weapons from the archaeological period have been found in places like Tinnevelly in Tamil Nadu, Brahmagiri in Karnataka, and Taxila, dating back to around 400 years before the Common Era. In places like Kapilavastu and Bodh Gaya, people were skilled in the iron industry even 1,500 years ago, as many signs of iron metallurgy have been found in these places. The large iron pillar in front of the Qutub Minar in Delhi was made in the fourth century during the reign of King Chandravarman of Pushkarana, Rajasthan. It is a vivid example of India's excellent metallurgy. The length of this pillar is 24 feet, and its estimated weight is more than 6 tons. Analysis of its iron shows that it contains 99.72% iron. The fact that this pillar has stood unaffected by air and rain for 15 centuries gives an idea of the metallurgy skills of the fourth century. The surprising thing is how such a long and wide pillar was made, as even today, it is difficult to make such a large rod.
+    questions_and_answers:
+      - question: |
+          When is the knowledge of iron metal in ancient India believed to have started, and what are the evidences of it?
+        answer: |
+          The knowledge of iron metal in ancient India dates back to around 300-400 BCE. Archaeological iron weapons have been found in places like Tinnevelly in Tamil Nadu, Brahmagiri in Karnataka, and Taxila, which provide evidence that iron was in use in India at that time.
+      - question: |
+          Why is the iron pillar in front of the Qutub Minar in Delhi important, and from which period does it date?
+        answer: |
+          The iron pillar in front of the Qutub Minar in Delhi dates back to the fourth century and is a vivid example of India's excellent metallurgy. The pillar is 24 feet long and weighs more than 6 tons. Analysis shows that it contains 99.72% pure iron. The fact that it has stood for 15 centuries without damage from air and rain demonstrates the advanced metallurgy skills of that time.
+      - question: |
+          What example of proficiency in metallurgy of ancient Indians is found from Kapilavastu and Bodh Gaya?
+        answer: |
+          In Kapilavastu and Bodh Gaya, around 1,500 years ago, people were skilled in the iron industry. Many signs of iron metallurgy have been found in these places, showing that ancient Indians had good knowledge of the processing and use of iron metal.
+  - context: |
+      Blood is a bodily fluid that continuously flows in the blood vessels to various organs. It is a thick, somewhat sticky, red fluid that is a living tissue. It is made up of plasma and blood cells. Plasma is the non-living liquid medium in which blood cells float. Plasma carries these cells throughout the body and also transports the nutrients absorbed from the intestines to various parts of the body. It also carries harmful substances formed after digestion to excretory organs for cleaning. There are three types of blood cells: red blood cells, white blood cells, and platelets. Red blood cells transport oxygen from the respiratory organs to the whole body and carry carbon dioxide from the body to the respiratory organs. A deficiency of these cells leads to anemia. White blood cells protect the body from harmful substances and disease-causing bacteria. Platelets help in protecting blood vessels and in blood clotting.
+    questions_and_answers:
+      - question: |
+          What is the main function of blood, and what is it made of?
+        answer: |
+          The main function of blood is to transport oxygen, nutrients, and harmful substances to different organs of the body. It is made up of plasma and blood cells. Plasma is a non-living liquid medium in which blood cells float, helping in the transportation of nutrients and harmful substances throughout the body.
+      - question: |
+          What are the different components of blood, and what are their functions?
+        answer: |
+          Blood has three types of cells: red blood cells, white blood cells, and platelets. Red blood cells transport oxygen and carbon dioxide in the body. White blood cells protect the body from harmful substances and bacteria. Platelets help in protecting blood vessels and in blood clotting.
+      - question: |
+          What is the importance of plasma, and how does it function in the body?
+        answer: |
+          Plasma is the liquid part of blood in which blood cells float. It transports nutrients absorbed from the intestines to different parts of the body and carries harmful substances to excretory organs for removal, keeping the body clean and healthy.
+  - context: |
+      Every atom is made up of a nucleus and is limited by one or more electrons. The nucleus generally consists of an equal number of neutrons and protons. Protons and neutrons are collectively called nucleons. More than 99.94% of the atom's mass is in the nucleus. Protons have a positive electric charge, electrons have a negative charge, and neutrons have no charge. The electrons in an atom are attracted toward the nucleus by this electromagnetic force. In the nucleus, protons and neutrons attract each other by a separate force called nuclear force, which is generally stronger than the electromagnetic force where positively charged protons are repelling each other. At the center of the atom is the nucleus, which has a very high density. The diameter of the nucleus is measured in fermis. (One fermi equals \(10^{-15}\)). Around the nucleus, negatively charged electrons keep revolving, forming an electron cloud. The nucleus is made up of positively charged protons and neutral neutrons. When the number of electrons in an atom is equal to the number of protons in its nucleus, the atom is electrically neutral; otherwise, the atom is in the form of a positively or negatively charged ion.
+    questions_and_answers:
+      - question: |
+          What is the importance of the nucleus and electrons in the structure of an atom?
+        answer: |
+          In the structure of an atom, the nucleus is the most important part, containing more than 99.94% of the mass. The nucleus is made up of protons and neutrons. Electrons revolve around the nucleus, forming an electron cloud. Protons in the nucleus have a positive electric charge, while electrons have a negative charge, attracting toward the nucleus due to electromagnetic force.
+      - question: |
+          How do protons and neutrons stay together in the nucleus, despite the tendency of protons to repel each other?
+        answer: |
+          Protons and neutrons in the nucleus attract each other by a special force called nuclear force, which is stronger than the electromagnetic force that causes repulsion between the positively charged protons, keeping them together.
+      - question: |
+          When is an atom electrically neutral, and when is it in the form of an ion?
+        answer: |
+          When the number of electrons in an atom is equal to the number of protons in its nucleus, the atom is electrically neutral. If the number of electrons becomes more or less than the protons, the atom is in the form of a positively or negatively charged ion.
+  - context: |
+      The proton is a positively charged fundamental particle found in the nucleus of an atom along with the neutron. It is denoted by the symbol 'p'. It has a positive charge of \(1.0602 \times 10^{-19}\) coulombs. Its mass is \(1.6726 \times 10^{-27}\) kg, which is approximately 1845 times the mass of an electron. A proton is made up of three elementary particles: two up quarks and one down quark. It is found freely in the form of a hydrogen ion \(H^+\). The proton was discovered by Rutherford.
+    questions_and_answers:
+      - question: |
+          What is a proton, and what is its importance in an atom?
+        answer: |
+          A proton is a positively charged fundamental particle found in the nucleus of an atom along with the neutron. It is denoted by the symbol 'p'. It plays an important role in the structure of the atom, as it, along with other protons and neutrons in the nucleus, maintains the mass and stability of the atom.
+      - question: |
+          What is the charge and mass of a proton, and how does it compare to an electron?
+        answer: |
+          A proton has a positive charge of \(1.0602 \times 10^{-19}\) coulombs and a mass of \(1.6726 \times 10^{-27}\) kg. Its mass is approximately 1845 times greater than the mass of an electron.
+      - question: |
+          Who discovered the proton, and what is its composition in terms of elementary particles?
+        answer: |
+          The proton was discovered by Rutherford. It is made up of three elementary particles: two up quarks and one down quark.
+document_outline: |
+  The document contains information about Electromagnetism in Hindi.
+document:
+  folder: /dccstor/cssblr/rmurthyv/IBM/InstructLab/instructlab/corpus/english_physics_ibmbluepile_md
+  patterns:
+    - "*.md"

@@ -1,0 +1,100 @@
+version: 3
+domain: physics
+created_by: murthyrudra
+seed_examples:
+  - context: |
+      In physics, magnetism is the process in which an object exerts attraction or repulsion force on another object. Objects which exhibit this property are called magnets. Nickel, iron, cobalt and their alloys have easily recognizable magnetic properties. It is known that all objects are affected by the presence of magnetic field to a greater or lesser extent.
+    questions_and_answers:
+      - question: |
+          What materials are known to exhibit strong magnetic properties? (Provide the answer in bulleted points.)
+        answer: |
+          * Nickel
+* Iron
+* Cobalt
+* Their alloys
+      - question: |
+          How are all objects affected by a magnetic field? (Provide the answer in bulleted points.)
+        answer: |
+          * All objects are affected to a greater or lesser extent by the presence of a magnetic field.
+      - question: |
+          What is magnetism? (Provide the answer in bulleted points.)
+        answer: |
+          * Magnetism is the process in which an object exerts attraction or repulsion force on another object.
+  - context: |
+      Humans have known about iron since ancient times. The use of iron was known to the people of India 300-400 years before Christ. Iron weapons etc. of the archaeological period have been found in Tinneveli district of Tamil Nadu state, Brahmagiri of Karnataka and Takshashila, which are known to be from about 400 years before Christ. People were skilled in the iron industry even 1,500 years ago in Kapilavastu, Buddhgaya etc., because many signs of iron metallurgy are still found in these places. The huge iron pillar in front of Qutub Minar of Delhi was built in the fourth century during the period of King Chandravarman of Pushkarna, Rajasthan. It is a vivid example of India's excellent metalcraft. The length of this pillar is 24 feet and its estimated weight is more than 6 tons. Analysis of its iron has revealed that it contains 99.72 percent iron. The metallurgy of the fourth century can be estimated from the fact that this pillar has been standing unaffected by wind and rain for 15 centuries. The surprising thing is how such a long and wide pillar was made, because even today it is a difficult task to make such a huge pillar.
+    questions_and_answers:
+      - question: |
+          What is notable about the iron pillar in Delhi? (Provide the answer in bulleted points.)
+        answer: |
+          * It was built in the fourth century during King Chandravarman's reign.
+* It is 24 feet long and weighs more than 6 tons.
+* The pillar has 99.72% iron content.
+* It has stood unaffected by wind and rain for 15 centuries.
+      - question: |
+          When and where were iron weapons discovered in India? (Provide the answer in bulleted points.)
+        answer: |
+          * Around 300-400 years before Christ.
+* In Tinneveli district of Tamil Nadu, Brahmagiri of Karnataka, and Takshashila.
+      - question: |
+          How does the iron metallurgy of ancient India compare to modern capabilities? (Provide the answer in bulleted points.)
+        answer: |
+          * Ancient Indian iron metallurgy was advanced enough to create large iron pillars that are still intact today.
+* Replicating such large iron pillars with current technology is challenging.
+  - context: |
+      Blood or hem is a body fluid that continuously flows in various organs through blood vessels. This thick, somewhat sticky, red coloured fluid flowing in blood vessels is a living tissue. It is made up of plasma and blood cells. Plasma is the lifeless liquid medium in which blood cells float. These cells are able to reach the entire body with the help of plasma and it is the plasma that carries the nutrients absorbed from the intestines to various parts of the body and takes the harmful substances formed after the digestive process to the excretory organs and gives them a chance to be cleaned. There are three types of blood cells, red blood cells, white blood cells and platelets. Red blood cells carry oxygen from the respiratory organs to the entire body and carry carbon dioxide from the body to the respiratory organs. Their deficiency causes anemia. White blood cells protect the body from harmful substances and disease-causing germs. Platelets help protect blood vessels and form blood.
+    questions_and_answers:
+      - question: |
+          What are the main components of blood? (Provide the answer in bulleted points.)
+        answer: |
+          * Plasma
+* Red blood cells
+* White blood cells
+* Platelets
+      - question: |
+          What role do red blood cells play in the body? (Provide the answer in bulleted points.)
+        answer: |
+          * They carry oxygen from the respiratory organs to the entire body.
+* They carry carbon dioxide from the body back to the respiratory organs.
+      - question: |
+          What function do platelets serve in the blood? (Provide the answer in bulleted points.)
+        answer: |
+          * They help protect blood vessels.
+* They assist in blood clotting.
+  - context: |
+      Every atom is made up of a nucleus and the nucleus is bounded by one or more electrons. The nucleus is usually made up of one or more neutrons and an equal number of protons. Protons and neutrons are called nucleons. More than 99.94% of the mass of an atom is in the nucleus. Protons have a positive electric charge, electrons have a negative electric charge and neutrons have no electric charge. The electrons of an atom are attracted to the protons in the nucleus of an atom by this electromagnetic force. The protons and neutrons in the nucleus are attracted to each other by a different force, i.e. the nuclear force, which is usually stronger than the electromagnetic force repelling the positively charged protons from each other. At the center of the atom is the nucleus which has a very high density. The diameter of the nucleus is measured in Fermi. (One Fermi equals 10^15 i.e. 10 to the power of -15) Negatively charged electrons keep revolving around the nucleus which is called electron cube (electron cloud). The nucleus is made up of positively charged protons and uncharged (neutral) neutrons. When the number of electrons in an atom is equal to the number of protons in its nucleus, then the atom is electrically uncharged; otherwise the atom is in the form of positively charged or negatively charged ions.
+    questions_and_answers:
+      - question: |
+          What are the components of an atom's nucleus? (Provide the answer in bulleted points.)
+        answer: |
+          * Protons
+* Neutrons
+      - question: |
+          What forces act on the particles within an atom? (Provide the answer in bulleted points.)
+        answer: |
+          * Electromagnetic force attracts electrons to protons.
+* Nuclear force binds protons and neutrons together.
+      - question: |
+          How is the diameter of an atom's nucleus measured? (Provide the answer in bulleted points.)
+        answer: |
+          * In Fermi (1 Fermi = 10^-15 meters).
+  - context: |
+      Proton is a fundamental particle with positive electrical charge, which is found in the nucleus of the atom along with neutron. It is represented by the symbol p. It has a positive charge of 1.0602E-19 coulomb. Its mass is 1.6726E-27 kg which is about 1845 times more than the mass of the electron. Proton is made up of three elementary particles, two up-quarks and one down-quark. Freely it is found in the form of hydrogen ion H+. Proton was discovered by Raderford
+    questions_and_answers:
+      - question: |
+          What is the charge of a proton? (Provide the answer in bulleted points.)
+        answer: |
+          * Positive charge of 1.0602E-19 coulomb.
+      - question: |
+          How does the mass of a proton compare to that of an electron? (Provide the answer in bulleted points.)
+        answer: |
+          * The mass of a proton is about 1845 times greater than the mass of an electron.
+      - question: |
+          What is the composition of a proton? (Provide the answer in bulleted points.)
+        answer: |
+          * Made up of three elementary particles: two up-quarks and one down-quark.
+document_outline: |
+  The document contains information about Electromagnetism in Hindi.
+document:
+  folder: /dccstor/cssblr/rmurthyv/IBM/InstructLab/instructlab/corpus/english_physics_ibmbluepile_md
+  patterns:
+    - "*.md"

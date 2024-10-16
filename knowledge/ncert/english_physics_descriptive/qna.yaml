@@ -1,0 +1,90 @@
+version: 3
+domain: physics
+created_by: murthyrudra
+seed_examples:
+  - context: |
+      In physics, magnetism is the process in which an object exerts attraction or repulsion force on another object. Objects which exhibit this property are called magnets. Nickel, iron, cobalt and their alloys have easily recognizable magnetic properties. It is known that all objects are affected by the presence of magnetic field to a greater or lesser extent.
+    questions_and_answers:
+      - question: |
+          Describe what magnetism involves and how it affects objects. 
+        answer: |
+          Magnetism involves the process where an object exerts either an attraction or repulsion force on another object. Objects that have this property are known as magnets. Magnetism affects all objects to some degree, depending on their material and the strength of the magnetic field.
+      - question: |
+          Explain why nickel, iron, and cobalt are significant in the study of magnetism.
+        answer: |
+          Nickel, iron, and cobalt are significant because they exhibit strong magnetic properties and are commonly used in various applications that involve magnetism. Their alloys also show noticeable magnetic characteristics, making them crucial for studying and utilizing magnetic effects.
+      - question: |
+          How does the presence of a magnetic field impact objects in its vicinity?
+        answer: |
+          The presence of a magnetic field influences objects by causing them to experience forces of attraction or repulsion. The extent of this effect depends on the magnetic properties of the objects and the strength of the magnetic field.
+
+  - context: |
+      Humans have known about iron since ancient times. The use of iron was known to the people of India 300-400 years before Christ. Iron weapons etc. of the archaeological period have been found in Tinneveli district of Tamil Nadu state, Brahmagiri of Karnataka and Takshashila, which are known to be from about 400 years before Christ. People were skilled in the iron industry even 1,500 years ago in Kapilavastu, Buddhgaya etc., because many signs of iron metallurgy are still found in these places. The huge iron pillar in front of Qutub Minar of Delhi was built in the fourth century during the period of King Chandravarman of Pushkarna, Rajasthan. It is a vivid example of India's excellent metalcraft. The length of this pillar is 24 feet and its estimated weight is more than 6 tons. Analysis of its iron has revealed that it contains 99.72 percent iron. The metallurgy of the fourth century can be estimated from the fact that this pillar has been standing unaffected by wind and rain for 15 centuries. The surprising thing is how such a long and wide pillar was made, because even today it is a difficult task to make such a huge pillar.
+    questions_and_answers:
+      - question: |
+          Discuss the historical significance of iron use in India based on archaeological findings.
+        answer: |
+          Iron use in India has historical significance as it dates back 300-400 years before Christ. Archaeological finds, such as iron weapons, in places like Tinneveli, Brahmagiri, and Takshashila, indicate advanced knowledge and utilization of iron during ancient times. The discovery of iron metallurgy signs in regions like Kapilavastu and Buddhgaya further highlights the skilled ironworking capabilities of people 1,500 years ago.
+      - question: |
+          What makes the iron pillar in front of Qutub Minar a remarkable example of ancient metalcraft?
+        answer: |
+          The iron pillar in front of Qutub Minar is remarkable due to its impressive size, standing 24 feet tall and weighing over 6 tons. It contains 99.72 percent iron and has remained unaffected by environmental factors for 15 centuries. This durability and quality reflect the advanced metallurgy of the fourth century.
+      - question: |
+          How does the condition of the iron pillar inform us about ancient metallurgical techniques?
+        answer: |
+          The condition of the iron pillar, which has withstood the elements for 15 centuries, suggests that ancient metallurgical techniques were highly advanced. The pillar's high iron content and resistance to corrosion reveal sophisticated understanding and application of ironworking methods during that era.
+
+  - context: |
+      Blood or hem is a body fluid that continuously flows in various organs through blood vessels. This thick, somewhat sticky, red coloured fluid flowing in blood vessels is a living tissue. It is made up of plasma and blood cells. Plasma is the lifeless liquid medium in which blood cells float. These cells are able to reach the entire body with the help of plasma and it is the plasma that carries the nutrients absorbed from the intestines to various parts of the body and takes the harmful substances formed after the digestive process to the excretory organs and gives them a chance to be cleaned. There are three types of blood cells, red blood cells, white blood cells and platelets. Red blood cells carry oxygen from the respiratory organs to the entire body and carry carbon dioxide from the body to the respiratory organs. Their deficiency causes anemia. White blood cells protect the body from harmful substances and disease-causing germs. Platelets help protect blood vessels and form blood.
+    questions_and_answers:
+      - question: |
+          Describe the composition and function of blood in the human body.
+        answer: |
+          Blood is composed of plasma and blood cells. Plasma is a liquid medium that transports nutrients from the intestines and removes harmful substances to the excretory organs. Blood cells include red blood cells, which carry oxygen and carbon dioxide; white blood cells, which protect against germs; and platelets, which help in clotting and protecting blood vessels.
+      - question: |
+          Explain the role of plasma in the circulatory system.
+        answer: |
+          Plasma serves as the liquid medium in which blood cells are suspended. It plays a crucial role in transporting nutrients absorbed from the intestines to different body parts and in carrying waste products to the excretory organs for removal.
+      - question: |
+          What are the functions of the different types of blood cells?
+        answer: |
+          Red blood cells transport oxygen from the lungs to the body's tissues and carbon dioxide back to the lungs. White blood cells defend the body against infections and harmful substances. Platelets are involved in blood clotting and maintaining the integrity of blood vessels.
+
+  - context: |
+      Every atom is made up of a nucleus and the nucleus is bounded by one or more electrons. The nucleus is usually made up of one or more neutrons and an equal number of protons. Protons and neutrons are called nucleons. More than 99.94% of the mass of an atom is in the nucleus. Protons have a positive electric charge, electrons have a negative electric charge and neutrons have no electric charge. The electrons of an atom are attracted to the protons in the nucleus of an atom by this electromagnetic force. The protons and neutrons in the nucleus are attracted to each other by a different force, i.e. the nuclear force, which is usually stronger than the electromagnetic force repelling the positively charged protons from each other. At the center of the atom is the nucleus which has a very high density. The diameter of the nucleus is measured in Fermi. (One Fermi equals 10^15 i.e. 10 to the power of -15) Negatively charged electrons keep revolving around the nucleus which is called electron cube (electron cloud). The nucleus is made up of positively charged protons and uncharged (neutral) neutrons. When the number of electrons in an atom is equal to the number of protons in its nucleus, then the atom is electrically uncharged; otherwise the atom is in the form of positively charged or negatively charged ions.
+    questions_and_answers:
+      - question: |
+          Describe the structure of an atom, including its components and their charges.
+        answer: |
+          An atom consists of a nucleus and electrons. The nucleus contains protons, which have a positive charge, and neutrons, which have no charge. Electrons, which have a negative charge, orbit the nucleus. The nucleus accounts for more than 99.94% of the atom's mass.
+      - question: |
+          How do electromagnetic and nuclear forces contribute to the stability of an atom?
+        answer: |
+          Electromagnetic force attracts electrons to the positively charged protons in the nucleus, helping to keep the electrons in orbit. The nuclear force, which is stronger than the electromagnetic force, binds protons and neutrons together in the nucleus, overcoming the repulsion between positively charged protons.
+      - question: |
+          What is the significance of the nucleus's density and size in atomic structure?
+        answer: |
+          The nucleus is extremely dense and contains most of the atom's mass. Its small size, measured in Fermi (10^-15 meters), highlights the concentrated nature of its mass and charge compared to the much larger electron cloud surrounding it.
+
+  - context: |
+      Proton is a fundamental particle with positive electrical charge, which is found in the nucleus of the atom along with neutron. It is represented by the symbol p. It has a positive charge of 1.0602E-19 coulomb. Its mass is 1.6726E-27 kg which is about 1845 times more than the mass of the electron. Proton is made up of three elementary particles, two up-quarks and one down-quark. Freely it is found in the form of hydrogen ion H+. Proton was discovered by Raderford
+    questions_and_answers:
+      - question: |
+          Explain the characteristics of a proton, including its charge and mass.
+        answer: |
+          A proton is a fundamental particle with a positive charge of 1.0602E-19 coulomb and a mass of 1.6726E-27 kg. It is approximately 1845 times more massive than an electron.
+      - question: |
+          What are the constituent particles of a proton, and how are they arranged?
+        answer: |
+          A proton is composed of three elementary particles: two up-quarks and one down-quark. These quarks are held together by the strong force within the proton.
+      - question: |
+          How was the proton discovered, and what is its common form in nature?
+        answer: |
+          The proton was discovered by Ernest Rutherford. In nature, it is commonly found as a hydrogen ion (H+), which is a proton stripped of its electron.
+          
+document_outline: |
+  The document contains information about Electromagnetism in Hindi.
+document:
+  folder: /dccstor/cssblr/rmurthyv/IBM/InstructLab/instructlab/corpus/english_physics_ibmbluepile_md
+  patterns:
+    - "*.md"

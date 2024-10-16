@@ -1,0 +1,85 @@
+version: 3
+domain: physics
+created_by: murthyrudra
+seed_examples:
+  - context: |
+      In physics, magnetism is the process in which one object exerts an attractive or repulsive force on another object. Objects that exhibit this property are called magnets. Nickel, iron, cobalt, and their alloys are known for their easily recognizable magnetic properties. It is worth noting that all objects are affected by the presence of a magnetic field to some extent.
+    questions_and_answers:
+      - question: |
+          Are all objects affected by a magnetic field?
+        answer: |
+          Yes
+      - question: |
+          Do nickel, iron, and cobalt have magnetic properties?
+        answer: |
+          Yes
+      - question: |
+          Do objects only exert an attractive force in magnetism?
+        answer: |
+          No
+  - context: |
+      Humans have been aware of iron metal since ancient times. People in India knew the use of iron around 300-400 years BCE. Iron weapons from the archaeological period have been found in places like Tinnevelly in Tamil Nadu, Brahmagiri in Karnataka, and Taxila, dating back to around 400 years before the Common Era. In places like Kapilavastu and Bodh Gaya, people were skilled in the iron industry even 1,500 years ago, as many signs of iron metallurgy have been found in these places. The large iron pillar in front of the Qutub Minar in Delhi was made in the fourth century during the reign of King Chandravarman of Pushkarana, Rajasthan. It is a vivid example of India's excellent metallurgy. The length of this pillar is 24 feet, and its estimated weight is more than 6 tons. Analysis of its iron shows that it contains 99.72% iron. The fact that this pillar has stood unaffected by air and rain for 15 centuries gives an idea of the metallurgy skills of the fourth century. The surprising thing is how such a long and wide pillar was made, as even today, it is difficult to make such a large rod.
+    questions_and_answers:
+      - question: |
+          Were people in India skilled in the iron industry 1,500 years ago?
+        answer: |
+          Yes
+      - question: |
+          Was the iron pillar in front of the Qutub Minar made in the fourth century?
+        answer: |
+          Yes
+      - question: |
+          Does the iron pillar in Delhi contain 99.72% iron?
+        answer: |
+          Yes
+  - context: |
+      Blood is a bodily fluid that continuously flows in the blood vessels to various organs. It is a thick, somewhat sticky, red fluid that is a living tissue. It is made up of plasma and blood cells. Plasma is the non-living liquid medium in which blood cells float. Plasma carries these cells throughout the body and also transports the nutrients absorbed from the intestines to various parts of the body. It also carries harmful substances formed after digestion to excretory organs for cleaning. There are three types of blood cells: red blood cells, white blood cells, and platelets. Red blood cells transport oxygen from the respiratory organs to the whole body and carry carbon dioxide from the body to the respiratory organs. A deficiency of these cells leads to anemia. White blood cells protect the body from harmful substances and disease-causing bacteria. Platelets help in protecting blood vessels and in blood clotting.
+    questions_and_answers:
+      - question: |
+          Are there three types of blood cells?
+        answer: |
+          Yes
+      - question: |
+          Do red blood cells transport oxygen to various parts of the body?
+        answer: |
+          Yes
+      - question: |
+          Are platelets helpful in blood clotting?
+        answer: |
+          Yes
+  - context: |
+      Every atom is made up of a nucleus and is limited by one or more electrons. The nucleus generally consists of an equal number of neutrons and protons. Protons and neutrons are collectively called nucleons. More than 99.94% of the atom's mass is in the nucleus. Protons have a positive electric charge, electrons have a negative charge, and neutrons have no charge. The electrons in an atom are attracted toward the nucleus by this electromagnetic force. In the nucleus, protons and neutrons attract each other by a separate force called nuclear force, which is generally stronger than the electromagnetic force where positively charged protons are repelling each other. At the center of the atom is the nucleus, which has a very high density. The diameter of the nucleus is measured in fermis. (One fermi equals \(10^{-15}\)). Around the nucleus, negatively charged electrons keep revolving, forming an electron cloud. The nucleus is made up of positively charged protons and neutral neutrons. When the number of electrons in an atom is equal to the number of protons in its nucleus, the atom is electrically neutral; otherwise, the atom is in the form of a positively or negatively charged ion.
+    questions_and_answers:
+      - question: |
+          Do the nucleus of an atom contain protons and neutrons?
+        answer: |
+          Yes
+      - question: |
+          Do electrons have a negative electric charge?
+        answer: |
+          Yes
+      - question: |
+          Is the density of the nucleus very high?
+        answer: |
+          Yes
+  - context: |
+      A proton is a positively charged fundamental particle found in the nucleus of an atom along with the neutron. It is denoted by the symbol 'p'. It has a positive charge of \(1.0602 \times 10^{-19}\) coulombs. Its mass is \(1.6726 \times 10^{-27}\) kg, which is approximately 1845 times the mass of an electron. A proton is made up of three elementary particles: two up quarks and one down quark. It is found freely in the form of a hydrogen ion \(H^+\). The proton was discovered by Rutherford.
+    questions_and_answers:
+      - question: |
+          Is the mass of a proton 1845 times greater than the mass of an electron?
+        answer: |
+          Yes
+      - question: |
+          Does a proton have a positive charge of \(1.0602 \times 10^{-19}\) coulombs?
+        answer: |
+          Yes
+      - question: |
+          Is a proton made up of three elementary particles?
+        answer: |
+          Yes
+document_outline: |
+  The document contains information about Electromagnetism in Hindi.
+document:
+  folder: /dccstor/cssblr/rmurthyv/IBM/InstructLab/instructlab/corpus/english_physics_ibmbluepile_md
+  patterns:
+    - "*.md"

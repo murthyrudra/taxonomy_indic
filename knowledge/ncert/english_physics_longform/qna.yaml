@@ -1,0 +1,74 @@
+version: 3
+domain: physics
+created_by: murthyrudra
+seed_examples:
+  - context: |
+      In physics, magnetism is the process in which an object exerts attraction or repulsion force on another object. Objects which exhibit this property are called magnets. Nickel, iron, cobalt and their alloys have easily recognizable magnetic properties. It is known that all objects are affected by the presence of magnetic field to a greater or lesser extent.
+    questions_and_answers:
+      - question: |
+          Can you explain the process of magnetism and how it affects objects both in terms of attraction and repulsion?
+        answer: |
+          Magnetism is the process by which an object exerts either an attraction or repulsion force on another object. This force is a result of the magnetic properties of the objects involved. Objects that exhibit these properties are termed magnets. The presence of a magnetic field influences all objects, with varying degrees of effect depending on their material composition and the strength of the magnetic field.
+      - question: |
+          How do materials like nickel, iron, and cobalt demonstrate their magnetic properties, and why are they important in the study of magnetism?
+        answer: |
+          Nickel, iron, and cobalt are materials that show distinct magnetic properties, such as attraction or repulsion in the presence of a magnetic field. Their importance in the study of magnetism stems from their strong and recognizable magnetic characteristics, making them ideal for understanding and applying magnetic effects in various practical applications and experiments.
+      - question: |
+          In what ways does the magnetic field influence objects around it, and how can this influence vary?
+        answer: |
+          The magnetic field influences objects by exerting forces of attraction or repulsion on them. The degree of this influence varies depending on the magnetic properties of the objects and the strength of the magnetic field. Some objects may experience strong forces, while others may only be affected slightly, depending on their interaction with the magnetic field.
+
+  - context: |
+      Humans have known about iron since ancient times. The use of iron was known to the people of India 300-400 years before Christ. Iron weapons etc. of the archaeological period have been found in Tinneveli district of Tamil Nadu state, Brahmagiri of Karnataka and Takshashila, which are known to be from about 400 years before Christ. People were skilled in the iron industry even 1,500 years ago in Kapilavastu, Buddhgaya etc., because many signs of iron metallurgy are still found in these places. The huge iron pillar in front of Qutub Minar of Delhi was built in the fourth century during the period of King Chandravarman of Pushkarna, Rajasthan. It is a vivid example of India's excellent metalcraft. The length of this pillar is 24 feet and its estimated weight is more than 6 tons. Analysis of its iron has revealed that it contains 99.72 percent iron. The metallurgy of the fourth century can be estimated from the fact that this pillar has been standing unaffected by wind and rain for 15 centuries. The surprising thing is how such a long and wide pillar was made, because even today it is a difficult task to make such a huge pillar.
+    questions_and_answers:
+      - question: |
+          What historical evidence indicates the use of iron in India before the time of Christ, and where have significant archaeological findings been made?
+        answer: |
+          Historical evidence shows that the use of iron in India dates back 300-400 years before Christ. Significant archaeological findings of iron artifacts, such as weapons, have been made in regions like Tinneveli in Tamil Nadu, Brahmagiri in Karnataka, and Takshashila. These findings provide evidence of advanced ironworking skills during that period.
+      - question: |
+          How does the iron pillar in front of Qutub Minar exemplify ancient Indian metalcraft, and what are some notable features of this pillar?
+        answer: |
+          The iron pillar in front of Qutub Minar exemplifies ancient Indian metalcraft through its impressive size, standing 24 feet tall and weighing over 6 tons. Notable features include its high iron content of 99.72 percent and its remarkable durability, having remained unaffected by environmental factors for 15 centuries. This durability highlights the advanced metallurgical techniques of the fourth century.
+      - question: |
+          What can be inferred about the metallurgical capabilities of the fourth century from the condition and construction of the Qutub Minar iron pillar?
+        answer: |
+          The condition and construction of the Qutub Minar iron pillar suggest that metallurgical capabilities in the fourth century were highly advanced. The pillar's durability, despite exposure to weather for 15 centuries, and its high iron content indicate sophisticated knowledge and skill in ironworking techniques of that era.
+
+  - context: |
+      Blood or hem is a body fluid that continuously flows in various organs through blood vessels. This thick, somewhat sticky, red coloured fluid flowing in blood vessels is a living tissue. It is made up of plasma and blood cells. Plasma is the lifeless liquid medium in which blood cells float. These cells are able to reach the entire body with the help of plasma and it is the plasma that carries the nutrients absorbed from the intestines to various parts of the body and takes the harmful substances formed after the digestive process to the excretory organs and gives them a chance to be cleaned. There are three types of blood cells, red blood cells, white blood cells and platelets. Red blood cells carry oxygen from the respiratory organs to the entire body and carry carbon dioxide from the body to the respiratory organs. Their deficiency causes anemia. White blood cells protect the body from harmful substances and disease-causing germs. Platelets help protect blood vessels and form blood.
+    questions_and_answers:
+      - question: |
+          How is blood structured, and what are its main components and their respective roles in the body?
+        answer: |
+          Blood is structured with plasma, a liquid medium, and blood cells. Plasma, which is lifeless, transports nutrients from the intestines to various parts of the body and carries waste products to the excretory organs. Blood cells include red blood cells that transport oxygen and carbon dioxide, white blood cells that defend against infections, and platelets that help in blood clotting and protecting blood vessels.
+      - question: |
+          What functions does plasma perform in the circulatory system, and why is it crucial for maintaining bodily functions?
+        answer: |
+          Plasma performs the essential function of transporting nutrients absorbed from the intestines to different body parts and removing waste products to the excretory organs. It is crucial for maintaining bodily functions as it ensures that nutrients reach the cells and that waste products are efficiently removed from the body.
+      - question: |
+          Describe the specific functions of red blood cells, white blood cells, and platelets, and how each contributes to overall health.
+        answer: |
+          Red blood cells are responsible for carrying oxygen from the lungs to the body's tissues and transporting carbon dioxide back to the lungs. White blood cells protect the body by defending against harmful substances and infections. Platelets contribute to overall health by aiding in blood clotting and maintaining the integrity of blood vessels, which prevents excessive bleeding and supports healing.
+
+  - context: |
+      Every atom is made up of a nucleus and the nucleus is bounded by one or more electrons. The nucleus is usually made up of one or more neutrons and an equal number of protons. Protons and neutrons are called nucleons. More than 99.94% of the mass of an atom is in the nucleus. Protons have a positive electric charge, electrons have a negative electric charge and neutrons have no electric charge. The electrons of an atom are attracted to the protons in the nucleus of an atom by this electromagnetic force. The protons and neutrons in the nucleus are attracted to each other by a different force, i.e. the nuclear force, which is usually stronger than the electromagnetic force repelling the positively charged protons from each other. At the center of the atom is the nucleus which has a very high density. The diameter of the nucleus is measured in Fermi. (One Fermi equals 10^15 i.e. 10 to the power of -15) Negatively charged electrons keep revolving around the nucleus which is called electron cube (electron cloud). The nucleus is made up of positively charged protons and uncharged (neutral) neutrons. When the number of electrons in an atom is equal to the number of protons in its nucleus, then the atom is electrically uncharged; otherwise the atom is in the form of positively charged or negatively charged ions.
+    questions_and_answers:
+      - question: |
+          What is the structure of an atom, including the composition and charge of its components, and how does this structure contribute to its overall properties?
+        answer: |
+          An atom consists of a nucleus surrounded by electrons. The nucleus is made up of protons, which have a positive charge, and neutrons, which have no charge. The electrons have a negative charge. The structure of the atom, with protons and neutrons concentrated in a dense nucleus and electrons orbiting around it, influences the atom’s overall properties, including its electrical charge and stability.
+      - question: |
+          How do the electromagnetic force and the nuclear force interact within an atom to maintain its stability?
+        answer: |
+          The electromagnetic force attracts negatively charged electrons to the positively charged protons in the nucleus, helping to keep the electrons in orbit around the nucleus. The nuclear force, which is stronger than the electromagnetic force, binds protons and neutrons together within the nucleus, overcoming the repulsion between positively charged protons and maintaining the stability of the atom’s core.
+      - question: |
+          What is the significance of the nucleus's high density and small size, and how is this measured in atomic terms?
+        answer: |
+          The nucleus's high density and small size are significant because they account for more than 99.94% of an atom's mass, despite its tiny volume. The diameter of the nucleus is
+          
+document_outline: |
+  The document contains information about Electromagnetism in Hindi.
+document:
+  folder: /dccstor/cssblr/rmurthyv/IBM/InstructLab/instructlab/corpus/english_physics_ibmbluepile_md
+  patterns:
+    - "*.md"
