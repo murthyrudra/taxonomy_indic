@@ -77,9 +77,9 @@ seed_examples:
           प्रोटॉन किन प्राथमिक कणों से बना होता है?
         answer: |
           दो अप-क्वार्क और एक डाउन-क्वार्क
-document_outline: |
-  दस्तावेज़ में चुंबकत्व के बारे में जानकारी हिंदी में दी गई है।
+language: hi
+document_outline: "NCERT CBSE Physics"
 document:
-  folder: /dccstor/cssblr/rmurthyv/IBM/InstructLab/instructlab/corpus/english_physics_ibmbluepile_md
+  folder: /dccstor/cssblr/rmurthyv/IBM/InstructLab/data/NCERT_Hindi_Ashish
   patterns:
     - "*.md"

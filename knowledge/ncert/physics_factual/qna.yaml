@@ -81,7 +81,7 @@ seed_examples:
           प्रोटॉन की खोज किसने की थी?
         answer: |
           अर्नेस्ट रदरफोर्ड
-document_outline: |
-  यह दस्तावेज़ हिंदी में विद्युतचुंबकत्व से संबंधित जानकारी प्रदान करता है।
+language: hi
+document_outline: "NCERT CBSE Physics"
 document:
   folder: /dccstor/cssblr/rmurthyv/IBM/InstructLab/instructlab

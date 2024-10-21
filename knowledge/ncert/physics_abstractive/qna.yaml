@@ -76,6 +76,6 @@ seed_examples:
           प्रोटॉन तीन प्राथमिक कणों, दो अप-क्वार्क और एक डाउन-क्वार्क से मिलकर बना होता है। स्वतंत्र रूप से यह उदजन आयन H+ के रूप में पाया जाता है। इसका निर्माण और संरचना इसे एक स्थिर और महत्वपूर्ण कण बनाते हैं, जो परमाणु की विशेषताओं को निर्धारित करता है।
 document_outline: "NCERT CBSE Physics"
 document:
-  folder: /Users/rudramurthy/Documents/GitHub/instructlab/data/NCERT_Physics
+  folder: /dccstor/cssblr/rmurthyv/IBM/InstructLab/data/NCERT_Hindi
   patterns:
     - "*.md"

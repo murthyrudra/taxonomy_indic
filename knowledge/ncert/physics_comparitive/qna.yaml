@@ -107,10 +107,9 @@ seed_examples:
           - प्रोटॉन दो अप-क्वार्क और एक डाउन-क्वार्क से बना होता है।
           - इलेक्ट्रॉन एक मौलिक कण है जिसमें कोई आंतरिक संरचना नहीं होती है।
           - प्रोटॉन की संरचना मिश्रित होती है, जबकि इलेक्ट्रॉन की कोई आंतरिक संरचना नहीं होती है।
-
-document_outline: |
-  The document contains information about Electromagnetism in Hindi.
+language: hi
+document_outline: "NCERT CBSE Physics"
 document:
-  folder: /dccstor/cssblr/rmurthyv/IBM/InstructLab/instructlab/corpus/english_physics_ibmbluepile_md
+  folder: /dccstor/cssblr/rmurthyv/IBM/InstructLab/data/NCERT_Hindi_Ashish/
   patterns:
     - "*.md"

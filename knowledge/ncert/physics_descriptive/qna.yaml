@@ -82,9 +82,9 @@ seed_examples:
         answer: |
           प्रोटॉन की खोज अर्नेस्ट रदरफोर्ड द्वारा की गई थी। प्रकृति में, यह सामान्यतः हाइड्रोजन आयन (H+), जो एक इलेक्ट्रॉन से मुक्त प्रोटॉन होता है, के रूप में पाया जाता है।
 
-document_outline: |
-  The document contains information about Electromagnetism in Hindi.
+language: hi
+document_outline: "NCERT CBSE Physics"
 document:
-  folder: /dccstor/cssblr/rmurthyv/IBM/InstructLab/instructlab/corpus/english_physics_ibmbluepile_md
+  folder: /dccstor/cssblr/rmurthyv/IBM/InstructLab/data/NCERT_Hindi_Ashish
   patterns:
     - "*.md"

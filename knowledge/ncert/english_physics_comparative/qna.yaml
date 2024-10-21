@@ -111,6 +111,6 @@ seed_examples:
 document_outline: |
   The document contains information about Electromagnetism in Hindi.
 document:
-  folder: /dccstor/cssblr/rmurthyv/IBM/InstructLab/instructlab/corpus/english_physics_ibmbluepile_md
+  folder: /dccstor/cssblr/rmurthyv/IBM/InstructLab/data/NCERT_Hindi_Ashish
   patterns:
     - "*.md"

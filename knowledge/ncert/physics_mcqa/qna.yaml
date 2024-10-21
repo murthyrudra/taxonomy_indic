@@ -137,9 +137,10 @@ c) 1845 गुना
 d) 2000 गुना
         answer: |
           c) 1845 गुना
-document_outline: |
-  The document contains information about Electromagnetism in Hindi.
+
+language: hi
+document_outline: "NCERT CBSE Physics"
 document:
-  folder: /dccstor/cssblr/rmurthyv/IBM/InstructLab/instructlab/corpus/english_physics_ibmbluepile_md
+  folder: /dccstor/cssblr/rmurthyv/IBM/InstructLab/data/NCERT_Hindi_Ashish
   patterns:
     - "*.md"
