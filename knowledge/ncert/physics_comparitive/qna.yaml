@@ -110,6 +110,6 @@ seed_examples:
 language: hi
 document_outline: "NCERT CBSE Physics"
 document:
-  folder: /dccstor/cssblr/rmurthyv/IBM/InstructLab/data/NCERT_Hindi_Ashish/
+  folder: /dccstor/cssblr/rmurthyv/IBM/InstructLab/data/NCERT_Hindi_Ashish
   patterns:
     - "*.md"
